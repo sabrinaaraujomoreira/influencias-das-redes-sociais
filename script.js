@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Acho que as redes sociais são um lugar onde as pessoas têm opiniões bem diferentes, mas também vejo isso como uma chance de normalizar o amor entre pessoas do mesmo sexo. Mesmo com comentários negativos, eu acredito que quanto mais visibilidade e apoio as pessoas LGBTQIA+ tiverem, mais a sociedade vai aprender a respeitar e aceitar.",
-                afirmacao: "Você vê as redes sociais como uma ferramenta para aumentar a visibilidade e o respeito, acreditando que, com o tempo, a sociedade vai se tornar mais aberta e menos preconceituosa, ajudando a reduzir esses julgamentos.",
+                afirmacao: "Você vê as redes sociais como uma ferramenta para aumentar a visibilidade e o respeito, acreditando que, com o tempo, a sociedade vai se tornar mais aberta e menos preconceituosa, ajudando a reduzir esses julgamentos."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Ignorar e não responder aos haters",
-                afirmacao:  "Optar por não responder aos haters pode ajudar a manter a saúde mental, evitando alimentar um ciclo de negatividade que pode afetar emocionalmente.",
+                afirmacao:  "Optar por não responder aos haters pode ajudar a manter a saúde mental, evitando alimentar um ciclo de negatividade que pode afetar emocionalmente."
             },
             {
                 texto: "Responder de forma educada e construtiva",
-                afirmacao: "Responder com empatia e respeito pode transformar uma situação negativa em uma oportunidade de diálogo e reflexão, além de reforçar a importância de manter um ambiente saudável nas redes sociais.",
+                afirmacao: "Responder com empatia e respeito pode transformar uma situação negativa em uma oportunidade de diálogo e reflexão, além de reforçar a importância de manter um ambiente saudável nas redes sociais."
             }
             ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Eu falaria para eles pararem e os lembraria de que, antes de comentar qualquer coisa, é importante pensar no impacto que isso pode ter na pessoa do vídeo. Ninguém merece ser alvo de piadas por causa do corpo, e a gente tem que ser mais consciente sobre o que compartilhamos nas redes.",
-                afirmacao: "Você entende que as palavras podem causar muito mais impacto do que imaginamos, e acredita que a mudança começa com atitudes mais conscientes. A sua intervenção pode ajudar a criar um ambiente mais respeitoso online e nas interações do dia a dia.",
+                afirmacao: "Você entende que as palavras podem causar muito mais impacto do que imaginamos, e acredita que a mudança começa com atitudes mais conscientes. A sua intervenção pode ajudar a criar um ambiente mais respeitoso online e nas interações do dia a dia."
             },
             {
                 texto: "Eu ficaria na minha e não diria nada. Sei que é errado, mas, às vezes, é difícil interromper uma piada ou se opor ao que os outros estão fazendo, principalmente para não causar um desconforto no grupo.",
-                afirmacao: "Você percebe que, embora a pressão social possa fazer você hesitar, é importante refletir sobre o que pode ser feito para não alimentar comportamentos tóxicos. Isso te faz pensar sobre como seria mais fácil fazer a coisa certa se tivéssemos mais coragem para agir contra o que é errado.",
+                afirmacao: "Você percebe que, embora a pressão social possa fazer você hesitar, é importante refletir sobre o que pode ser feito para não alimentar comportamentos tóxicos. Isso te faz pensar sobre como seria mais fácil fazer a coisa certa se tivéssemos mais coragem para agir contra o que é errado."
             }
             ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você se sente motivado e inspirado, vendo essas conquistas, e isso te impulsiona a melhorar sua própria vida em certos aspectos. Para você, não é algo que te afeta negativamente, porque você não se importa tanto com o que os outros mostram nas redes sociais.",
-                afirmacao: "Ver a vida de outras pessoas de forma positiva pode ser uma fonte de inspiração, mas se você não se importa tanto com os padrões impostos online, consegue se concentrar em sua própria jornada e não se deixar afetar pelas comparações.",
+                afirmacao: "Ver a vida de outras pessoas de forma positiva pode ser uma fonte de inspiração, mas se você não se importa tanto com os padrões impostos online, consegue se concentrar em sua própria jornada e não se deixar afetar pelas comparações."
             },
             {
                 texto: "Você sente que as comparações estão afetando sua autoestima, fazendo você se questionar sobre sua própria vida e suas realizações.",
-                afirmacao: "As comparações podem ser prejudiciais à saúde mental, pois nem sempre a realidade da pessoa é aquilo que ela mostra online, e isso pode criar um padrão irreal e difícil de alcançar.",
+                afirmacao: "As comparações podem ser prejudiciais à saúde mental, pois nem sempre a realidade da pessoa é aquilo que ela mostra online, e isso pode criar um padrão irreal e difícil de alcançar."
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você se sente chateado e excluído, questionando por que não foi convidado. Isso te afeta emocionalmente, principalmente porque as redes sociais tendem a amplificar essas situações, fazendo você se comparar e se sentir ainda mais isolado.",
-                afirmacao: "Ver momentos importantes sendo compartilhados nas redes sociais pode gerar sentimentos de rejeição e insegurança, especialmente se você sentir que está sendo deixado de fora. Isso pode afetar a saúde emocional, criando uma sensação de inadequação.",
+                afirmacao: "Ver momentos importantes sendo compartilhados nas redes sociais pode gerar sentimentos de rejeição e insegurança, especialmente se você sentir que está sendo deixado de fora. Isso pode afetar a saúde emocional, criando uma sensação de inadequação."
             },
             {
                 texto: "Você não se sente muito afetado, entende que nem sempre pode estar presente em todos os eventos e segue em frente. Nas redes sociais, você prefere se focar no que te traz felicidade e não se deixar abalar pelas escolhas alheias.",
-                afirmacao: "Desapegar das comparações e perceber que as redes sociais mostram apenas um recorte da vida dos outros pode ser um passo importante para proteger a saúde emocional, evitando que momentos isolados te afetem de forma negativa.",
+                afirmacao: "Desapegar das comparações e perceber que as redes sociais mostram apenas um recorte da vida dos outros pode ser um passo importante para proteger a saúde emocional, evitando que momentos isolados te afetem de forma negativa."
             }
         ]
     },
