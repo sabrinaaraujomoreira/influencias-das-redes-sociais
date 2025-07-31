@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você posta uma foto em seu Instagram, porém é alvo de haters. Como você reage?
+        enunciado: "Você posta uma foto em seu Instagram, porém é alvo de haters. Como você reage?",
         alternativas: [
             {
                 texto: "Ignorar e não responder aos haters",
