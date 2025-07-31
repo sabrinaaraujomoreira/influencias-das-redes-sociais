@@ -28,7 +28,7 @@ const perguntas = [
             {
                 texto: "Responder de forma educada e construtiva",
                 afirmacao: "Responder com empatia e respeito pode transformar uma situação negativa em uma oportunidade de diálogo e reflexão, além de reforçar a importância de manter um ambiente saudável nas redes sociais."
-        ]
+        
     },
     {
         enunciado: "Você está na escola com seus amigos, assistindo a vídeos no tik tok, e aparece um vídeo de alguém acima do peso, alguns de seus amigos querem comentar algo inapropriado que claramente poderá entristecer a pessoa do vídeo, o que você faz?,
