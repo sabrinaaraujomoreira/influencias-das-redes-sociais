@@ -27,18 +27,18 @@ const perguntas = [
             },
             {
                 texto: "Responder de forma educada e construtiva",
-                afirmacao: "Responder com empatia e respeito pode transformar uma situação negativa em uma oportunidade de diálogo e reflexão, além de reforçar a importância de manter um ambiente saudável nas redes sociais.",
+                afirmacao: "Responder com empatia e respeito pode transformar uma situação negativa em uma oportunidade de diálogo e reflexão, além de reforçar a importância de manter um ambiente saudável nas redes sociais."
         ]
     },
     {
-        enunciado: "Você está na escola com seus amigos, assistindo a vídeos no tik tok, e aparece um vídeo de alguém acima do peso, alguns de seus amigos querem comentar algo inapropriado que claramente poderá entristecer a pessoa do vídeo, o que você faz?
+        enunciado: "Você está na escola com seus amigos, assistindo a vídeos no tik tok, e aparece um vídeo de alguém acima do peso, alguns de seus amigos querem comentar algo inapropriado que claramente poderá entristecer a pessoa do vídeo, o que você faz?,
         alternativas: [
             {
                 texto: "Eu falaria para eles pararem e os lembraria de que, antes de comentar qualquer coisa, é importante pensar no impacto que isso pode ter na pessoa do vídeo. Ninguém merece ser alvo de piadas por causa do corpo, e a gente tem que ser mais consciente sobre o que compartilhamos nas redes.",
                 afirmacao: "Você entende que as palavras podem causar muito mais impacto do que imaginamos, e acredita que a mudança começa com atitudes mais conscientes. A sua intervenção pode ajudar a criar um ambiente mais respeitoso online e nas interações do dia a dia."
             },
             {
-                texto: "Eu ficaria na minha e não diria nada. Sei que é errado, mas, às vezes, é difícil interromper uma piada ou se opor ao que os outros estão fazendo, principalmente para não causar um desconforto no grupo."
+                texto: "Eu ficaria na minha e não diria nada. Sei que é errado, mas, às vezes, é difícil interromper uma piada ou se opor ao que os outros estão fazendo, principalmente para não causar um desconforto no grupo.",
                 afirmacao: "Você percebe que, embora a pressão social possa fazer você hesitar, é importante refletir sobre o que pode ser feito para não alimentar comportamentos tóxicos. Isso te faz pensar sobre como seria mais fácil fazer a coisa certa se tivéssemos mais coragem para agir contra o que é errado."
         ]
     },
@@ -46,11 +46,11 @@ const perguntas = [
         enunciado: "Você acompanha um influencer nas redes sociais, o mesmo parece ter uma vida perfeita, corpo bem desenvolvido, vida social ativa e vida profissional eficiente. Como você se sente sobre isso? Isso te afeta emocionalmente?",
         alternativas: [
             {
-                texto: "Você se sente motivado e inspirado, vendo essas conquistas, e isso te impulsiona a melhorar sua própria vida em certos aspectos. Para você, não é algo que te afeta negativamente, porque você não se importa tanto com o que os outros mostram nas redes sociais."
+                texto: "Você se sente motivado e inspirado, vendo essas conquistas, e isso te impulsiona a melhorar sua própria vida em certos aspectos. Para você, não é algo que te afeta negativamente, porque você não se importa tanto com o que os outros mostram nas redes sociais.",
                 afirmacao: "Ver a vida de outras pessoas de forma positiva pode ser uma fonte de inspiração, mas se você não se importa tanto com os padrões impostos online, consegue se concentrar em sua própria jornada e não se deixar afetar pelas comparações."
             },
             {
-                texto: "Você sente que as comparações estão afetando sua autoestima, fazendo você se questionar sobre sua própria vida e suas realizações."
+                texto: "Você sente que as comparações estão afetando sua autoestima, fazendo você se questionar sobre sua própria vida e suas realizações.",
                 afirmacao: As comparações podem ser prejudiciais à saúde mental, pois nem sempre a realidade da pessoa é aquilo que ela mostra online, e isso pode criar um padrão irreal e difícil de alcançar."
             }
         ]
@@ -59,7 +59,7 @@ const perguntas = [
         enunciado: "Você está rolando o Instagram e se depara com uma foto de um churrasco que seu amigo organizou, onde está o seu grupo de amigos inteiro, mas você não foi convidado. Como você se sente ao ver isso e como reage?",
         alternativas: [
             {
-                texto: "Você se sente chateado e excluído, questionando por que não foi convidado. Isso te afeta emocionalmente, principalmente porque as redes sociais tendem a amplificar essas situações, fazendo você se comparar e se sentir ainda mais isolado."
+                texto: "Você se sente chateado e excluído, questionando por que não foi convidado. Isso te afeta emocionalmente, principalmente porque as redes sociais tendem a amplificar essas situações, fazendo você se comparar e se sentir ainda mais isolado.",
                 afirmacao: "Ver momentos importantes sendo compartilhados nas redes sociais pode gerar sentimentos de rejeição e insegurança, especialmente se você sentir que está sendo deixado de fora. Isso pode afetar a saúde emocional, criando uma sensação de inadequação."
 
 
