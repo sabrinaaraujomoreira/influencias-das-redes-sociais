@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "Você se depara com uma foto de um casal homossexual nas redes sociais e, ao ler os comentários, encontra diversas manifestações de julgamento e crítica. o que você pensa a respeito?",
         alternativas: [
             {
-                texto: "Eu acho que isso mostra como a intolerância ainda está presente em muitas pessoas. Infelizmente, tem muita gente que não aceita a diversidade e sente que tem o direito de julgar, o que é bem errado. As redes sociais acabam amplificando esse tipo de comentário, mas também podem ser usadas para ensinar as pessoas sobre respeito e igualdade."
+                texto: "Eu acho que isso mostra como a intolerância ainda está presente em muitas pessoas. Infelizmente, tem muita gente que não aceita a diversidade e sente que tem o direito de julgar, o que é bem errado. As redes sociais acabam amplificando esse tipo de comentário, mas também podem ser usadas para ensinar as pessoas sobre respeito e igualdade.",
                 afirmacao: "Você acredita que a mudança depende de cada um de nós. A gente precisa aprender mais sobre empatia, ser mais educado e combater o preconceito no dia a dia, tanto online quanto offline, para que todo mundo, independentemente da sexualidade, seja respeitado."
             },
             {
-                texto: "Acho que as redes sociais são um lugar onde as pessoas têm opiniões bem diferentes, mas também vejo isso como uma chance de normalizar o amor entre pessoas do mesmo sexo. Mesmo com comentários negativos, eu acredito que quanto mais visibilidade e apoio as pessoas LGBTQIA+ tiverem, mais a sociedade vai aprender a respeitar e aceitar."
+                texto: "Acho que as redes sociais são um lugar onde as pessoas têm opiniões bem diferentes, mas também vejo isso como uma chance de normalizar o amor entre pessoas do mesmo sexo. Mesmo com comentários negativos, eu acredito que quanto mais visibilidade e apoio as pessoas LGBTQIA+ tiverem, mais a sociedade vai aprender a respeitar e aceitar.",
                 afirmacao: "Você vê as redes sociais como uma ferramenta para aumentar a visibilidade e o respeito, acreditando que, com o tempo, a sociedade vai se tornar mais aberta e menos preconceituosa, ajudando a reduzir esses julgamentos."
             }
         ]
